@@ -1,0 +1,2 @@
+a ="Narayana"
+print(a)
